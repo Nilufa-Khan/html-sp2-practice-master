@@ -1,0 +1,24 @@
+/* Write CSS code here */
+ .images{
+    
+    margin-left: 300px; 
+    margin-top: 20px;
+}
+img{
+    width: 250px;
+    padding: 10px;
+}
+
+ body{
+    background-color: black;
+ }
+.white{
+    color: white;
+}
+.green{
+    color: green;
+}
+h1{
+    text-align: center;
+    color: white;
+}
